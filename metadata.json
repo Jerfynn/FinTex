@@ -1,0 +1,6 @@
+{
+  "name": "FinTex",
+  "description": "A full-stack, real-time messaging FinTex platform with conversational features, status update feeds, alphabetical contacts directory, dual PIN safety, and test vibrating alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment variables (CRITICAL FOR PRIVACY)
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+
+# OS specific
+.DS_Store
