@@ -1,11 +1,11 @@
 <div align="center">
   <img width="1200" height="475" alt="FinTex Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
   
-  <h1>🚀 FinTex</h1>
+  <h1> FinTex</h1>
   <p><b>A Full-Stack, Real-Time Messaging & Social Platform</b></p>
 </div>
 
-## 📖 Overview
+##  Overview
 
 Welcome to **FinTex**, a modern, high-performance real-time messaging and social platform engineered to deliver a seamless and secure communication experience. Built with a robust full-stack architecture, FinTex bridges the gap between instant messaging reliability and elegant user interface design, making it the perfect foundation for next-generation chat applications.
 
@@ -17,7 +17,7 @@ To ensure reliability and scale, all chat histories, user metadata, and complex 
 
 View the AI Studio configuration for this app: AI Studio Project
 
-## ✨ Key Features
+##  Key Features
 
 - **Real-Time WebSocket Engine**: Instant messaging with active connection tracking, event-driven message routing, and live read receipts using `Socket.io`.
 - **Passwordless OTP Authentication**: Secure, 6-digit one-time password (OTP) email verification flow issuing stateless JWTs.
@@ -26,14 +26,14 @@ View the AI Studio configuration for this app: AI Studio Project
 - **Modern React UI**: Fluid interfaces built with Tailwind CSS, Lucide Icons, and Framer Motion.
 - **AI Integrated**: Hooked up to Google's Gemini GenAI SDK for advanced intelligence features.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite, Tailwind CSS v4, Framer Motion
 - **Backend**: Node.js, Express, Socket.io, JWT Authentication
 - **Database**: PostgreSQL, Drizzle ORM
 - **AI & APIs**: `@google/genai` (Gemini)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Node.js** (v18+ recommended)
